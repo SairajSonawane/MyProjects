@@ -21,9 +21,5 @@ To get a local copy up and running, follow these simple steps.
 - A modern web browser.
 - Basic knowledge of HTML, CSS, and JavaScript.
 
-### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/pras75299/One-page-Corporate-Template.git
    ```
